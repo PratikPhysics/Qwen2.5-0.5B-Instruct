@@ -1,4 +1,5 @@
 import streamlit as st
+import transformers
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 model_name = "Qwen/Qwen2.5-0.5B-Instruct"
