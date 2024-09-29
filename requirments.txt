@@ -1,4 +1,4 @@
-transformers==4.29.1
+transformers
 accelerate==0.34.2
 altair==5.4.1
 attrs==24.2.0
